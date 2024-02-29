@@ -1,0 +1,10 @@
+{
+    "modules": {
+        "UWP": {
+            "assemblies": [
+                "Windows",
+                "Windows.*"
+            ]
+        }
+    }
+}
